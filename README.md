@@ -8,3 +8,6 @@
 ### The simulation code is in  \division.srcs\sim_1\new.
 ### Just download this code and you can run in vivado directly or,
 ### If you need to add this in your project, copy the code file from \division.srcs\sources_1\new to your project.
+Here is the instance of the sumulation
+![image](https://user-images.githubusercontent.com/26106126/143660866-fb00293c-11b7-4a0e-9ab0-4601cff8fa4a.png)
+
