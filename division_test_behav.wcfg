@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="division_test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="division_test" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="500000000001fs"></ZoomEndTime>
+      <Cursor1Time time="16009852000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="72"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/division_test/UUT1/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/CL" type="array">
+      <obj_property name="ElementShortName">CL[64:0]</obj_property>
+      <obj_property name="ObjectShortName">CL[64:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/CT" type="array">
+      <obj_property name="ElementShortName">CT[64:0]</obj_property>
+      <obj_property name="ObjectShortName">CT[64:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/inv_CL" type="array">
+      <obj_property name="ElementShortName">inv_CL[64:0]</obj_property>
+      <obj_property name="ObjectShortName">inv_CL[64:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/inv_CT" type="array">
+      <obj_property name="ElementShortName">inv_CT[64:0]</obj_property>
+      <obj_property name="ObjectShortName">inv_CT[64:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/divisor" type="array">
+      <obj_property name="ElementShortName">divisor[65:0]</obj_property>
+      <obj_property name="ObjectShortName">divisor[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/divident" type="array">
+      <obj_property name="ElementShortName">divident[65:0]</obj_property>
+      <obj_property name="ObjectShortName">divident[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/quotient" type="array">
+      <obj_property name="ElementShortName">quotient[65:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/quotient_ready" type="array">
+      <obj_property name="ElementShortName">quotient_ready[65:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_ready[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/one" type="array">
+      <obj_property name="ElementShortName">one[64:0]</obj_property>
+      <obj_property name="ObjectShortName">one[64:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/counter" type="array">
+      <obj_property name="ElementShortName">counter[8:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[8:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/division_test/UUT1/BIT" type="array">
+      <obj_property name="ElementShortName">BIT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BIT[31:0]</obj_property>
+   </wvobject>
+</wave_config>

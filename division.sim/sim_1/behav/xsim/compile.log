@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module division
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:8]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:9]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:10]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:11]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:13]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:14]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:15]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:16]
+WARNING: [VRFC 10-969] keyword 'unsigned' is not allowed here in this mode of verilog [C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sources_1/new/division.v:17]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/anura/Desktop/research/DIVISION/division/division.srcs/sim_1/new/division_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module division_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/anura/Desktop/research/DIVISION/division/division.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
